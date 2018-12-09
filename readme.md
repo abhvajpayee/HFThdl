@@ -19,7 +19,7 @@ In order to minimise the latency people started pushing certain compute intensiv
 
 It would be interesting to see an Ultra Low latency pipeline completely implemented in FPGA. Based on the market study and interaction with the peoples I have envision an architecture for such pipeline.
 
-| ![Ultra Low Latency Pipeline](images/fullImpliment.png | width=30%){:height="50%" width="50%"} | 
+| ![Ultra Low Latency Pipeline](images/fullImpliment.png){:height="50%" width="50%"} | 
 |:--:| 
 | *Ultra Low Latency Pipeline* |
 
